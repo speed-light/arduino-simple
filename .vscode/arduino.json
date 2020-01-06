@@ -2,5 +2,6 @@
     "sketch": "example.ino",
     "board": "arduino:avr:uno",
     "port": "/dev/cu.wchusbserialfd130",
-    "programmer": "AVR ISP"
+    "programmer": "AVR ISP",
+    "output": "./.build"
 }
